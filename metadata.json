@@ -1,0 +1,6 @@
+{
+  "name": "Kedai Mini Bijak - Pengembaraan 3D",
+  "description": "Permainan 3D orang pertama pendidikan membeli-belah dan mengenali wang Malaysia (RM1, RM5, RM10) untuk murid berkeperluan pendidikan khas (MBPK).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
